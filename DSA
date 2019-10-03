@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+     <style>
+            #header {
+                background: url("header.jpeg");
+                
+            }
+        </style>
+    
+     <title>Core Team</title>
+</head>
+
+<body>
+<nav class="navbar bg-dark navbar-dark">
+    <div class="container">
+            <a href="" class="navbar-brand"><i class="fa fa-id-badge" aria-hidden="true"></i>  DSA TEAM</a>
+    </div>
+</nav>
+<section id="header" class="jumbotron text-center">
+ <h1 class="display-3">CORE TEAM</h1>
+ <p>loren ipsum</p>
+</section>
+<section id="gallery">
+    <div class="container">
+   <div class="row">
+          <div class="col-lg-4 mb-3" >
+                <div class="card">
+                        <img class="card-img-top" src="JakeGyllenhaal.jpg" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title">Name</h4>
+                            <h5 class="card-title">Technical Lead</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis omnis id eum velit doloribus amet rem, maxime tempora accusamus architecto. Nostrum, optio fugiat facere unde distinctio quia necessitatibus explicabo minus.</p>
+                        </div>
+                        </div>
+          </div>
+          <div class="col-lg-4 mb-3">
+                <div class="card">
+                        <img class="card-img-top" src="margotRobbie.jpg"  height="523px";alt="">
+                        <div class="card-body">
+                            <h4 class="card-title">Name</h4>
+                            <h5 class="card-title">Technical Lead</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis omnis id eum velit doloribus amet rem, maxime tempora accusamus architecto. Nostrum, optio fugiat facere unde distinctio quia necessitatibus explicabo minus.</p>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mb-3">
+                            <div class="card">
+                                    <img class="card-img-top" src="SteveCarell.jpg" alt="">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Name</h4>
+                                        <h5 class="card-title">Technical Lead</h5>
+                                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis omnis id eum velit doloribus amet rem, maxime tempora accusamus architecto. Nostrum, optio fugiat facere unde distinctio quia necessitatibus explicabo minus.</p>
+                                    </div>
+                                    </div>
+                                </div>
+   </div>
+    </div>
+</section>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
